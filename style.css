@@ -1,0 +1,68 @@
+.form
+{
+    margin: 0 auto;
+    margin-top: 10em;
+    max-width: 500px;
+    gap: 20px;
+}
+
+.label
+{
+    color: #2b98f0;
+    font-size: 12px;
+    font-weight: 600;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.btn
+{
+    margin-top: 15px;
+    padding: 15px;
+    background: #2b98f0;    
+    border: 1px solid #2b98f0;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+p
+{
+    color: #636161;
+}
+
+.form__name
+{
+    display: flex;
+}
+
+.container
+{
+    width: 50%;
+    padding-right: 30px;
+    justify-content: left;
+}
+
+.container-long
+{
+    padding-right: 30px;
+}
+
+.input
+{
+    width: 100%;
+    border: none;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.message-container
+{
+    padding-right: 30px;
+}
+
+.message
+{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
